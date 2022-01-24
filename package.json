@@ -1,0 +1,27 @@
+{
+  "name": "gqlmovie",
+  "version": "1.0.0",
+  "description": "movie API with gql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohveloper/gqlmovie.git"
+  },
+  "keywords": [
+    "gql"
+  ],
+  "author": "ohveloper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ohveloper/gqlmovie/issues"
+  },
+  "homepage": "https://github.com/ohveloper/gqlmovie#readme",
+  "dependencies": {
+    "apollo-server": "^3.6.2",
+    "graphql": "^16.2.0"
+  }
+}
